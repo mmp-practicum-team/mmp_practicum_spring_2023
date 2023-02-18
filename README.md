@@ -21,7 +21,7 @@
 
 ## Материалы
 
-Видеозаписи практикумов [выкладываются в этом плейлисте](https://youtube.com/playlist?list=PLVF5PzSHILHQVzBxACB3-UQr8BmhoDEIn).
+Видеозаписи практикумов [выкладываются в этом плейлисте](https://www.youtube.com/playlist?list=PLVF5PzSHILHTxlapj_O-drSuzOdZ4XAVG).
 
 Видеозаписи практикумов 2022 года [в этом плейлисте](https://youtube.com/playlist?list=PLVF5PzSHILHQVzBxACB3-UQr8BmhoDEIn).
 
