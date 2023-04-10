@@ -41,7 +41,7 @@
 | 14 марта    | 05  | <ul><li>Семантическая сегментация</li><li>Transposed Convolution</li></ul> | [Семантическая сегментация](Seminars/Seminar%2005/Семантическая%20Сегментация.ipynb) | [Сегментация изображений](Tasks/Task%2002/task_02.ipynb) |
 | 21 марта    | 06  | <ul><li>Обработка последовательностей</li><li>RNN</li><li>BPTT</li><li>LSTM</li><li>Gradient Clipping</li></ul> | [Рекуррентные нейронные сети](Seminars/Seminar%2006/Рекуррентные%20Нейронные%20Сети.ipynb)  | ¯\\\_(ツ)\_/¯ |
 | 28 марта    | 07  | <ul><li>Языковые модели</li><li>Эмбеддинги</li><li>Torchtext</li><li>Декодинг LM</li><li>BLEU/ROUGH</li></ul> | [Языковые модели. Torchtext](Seminars/Seminar%2007/Языковые%20модели.%20Torchtext.ipynb)  | [Рекуррентные Нейронные Сети. Dropout. LM](Tasks/Task%2003/task_03.ipynb) |
-| 04 апреля   | 08  |                                      |                                                                    | ¯\\\_(ツ)\_/¯ |
+| 04 апреля   | 08  | <ul><li>Механизм внимания</li><li>Архитектура Transformer</li><li>Attention is all you need</li></ul>  | [Механизм внимания. Архитектура Transformer](Seminars/Seminar%2008/Механизм%20внимания.%20Архитектура%20Transformer.ipynb)  | ¯\\\_(ツ)\_/¯ |
 | 11 апреля   | 09  |                                      |                                                                    | ¯\\\_(ツ)\_/¯ |
 | 18 апреля   | 10  |                                      |                                                                    | ¯\\\_(ツ)\_/¯ |
 | 25 апреля   | 11  |                                      |                                                                    | ¯\\\_(ツ)\_/¯ |
